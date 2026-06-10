@@ -1,7 +1,8 @@
 {
   "cliente": "BENSEÑOR",
   "estado": "activo",
-  "hwid": ["5BEFEBE1F6EE711D", "45726677C45CDFA1"],
+  "hwid": "5BEFEBE1F6EE711D",
+  "hwid_extra": ["45726677C45CDFA1"],
   "vence": null,
-  "nota": "licencia BENSEÑOR — 2 equipos: contador + PC dev Max"
+  "nota": "licencia BENSEÑOR — hwid=contador, hwid_extra=PC dev Max"
 }
